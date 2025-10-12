@@ -6,7 +6,6 @@
 
 🔗 [View Project on GitHub](https://github.com/ChapaMchivi/hedis-hospital-analysis)
 
-![Project Preview](images/dashboard_preview.png)
 
 This notebook simulates a hospital dataset and applies HEDIS-aligned analytics, including:
 
