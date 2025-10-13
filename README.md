@@ -14,6 +14,14 @@ This notebook simulates a hospital dataset and applies HEDIS-aligned analytics, 
 - 🧹 Outlier detection & audit flagging  
 - 📊 Stratified reporting dashboards  
 
+## 🔄 Changelog
+
+**v1.1.0**
+- Refactored screening logic for cancer, diabetes, and BP flags
+- Improved dashboard visuals and stratification
+- Synced README with updated logic
+
+
 ## 🔧 Tech Stack  
 - Python (pandas, seaborn, matplotlib)  
 - Jupyter Notebook  
