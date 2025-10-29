@@ -8,13 +8,13 @@
 
 This notebook simulates a hospital dataset and applies HEDIS-aligned analytics, including:
 
-- 📌 Data cleaning & feature engineering  
-- 📈 Univariate & bivariate analysis  
-- 🧬 Simulated screening flags (cancer, diabetes, BP)  
-- 🧹 Outlier detection & audit flagging  
-- 📊 Stratified reporting dashboards  
+-  Data cleaning & feature engineering  
+-  Univariate & bivariate analysis  
+-  Simulated screening flags (cancer, diabetes, BP)  
+-  Outlier detection & audit flagging  
+-  Stratified reporting dashboards  
 
-## 🔄 Changelog
+##  Changelog
 
 **v1.1.0**
 - Refactored screening logic for cancer, diabetes, and BP flags
@@ -27,7 +27,7 @@ This notebook simulates a hospital dataset and applies HEDIS-aligned analytics, 
 - Jupyter Notebook  
 - GitHub for version control  
 
-## 📁 Structure  
+##  Structure  
 - `hedis-hospital-analysis.ipynb`: Main notebook  
 - `data/`: Simulated or anonymized datasets  
 - `images/`: Visual assets (charts, dashboards)  
@@ -35,11 +35,11 @@ This notebook simulates a hospital dataset and applies HEDIS-aligned analytics, 
 - `requirements.txt`: Package list  
 - `venv/`: Virtual environment (optional)
 
-## ✅ Reproducibility  
+##  Reproducibility  
 - Virtual environment setup: `python -m venv venv`  
 - Install packages: `pip install -r requirements.txt`
 
-## 📸 Visual Summary
+##  Visual Summary
 
 Below are key visualizations from the HEDIS hospital analysis notebook:
 
