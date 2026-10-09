@@ -6,7 +6,7 @@
 
 🔗 [View Project on GitHub](https://github.com/ChapaMchivi/hedis-hospital-analysis)
 
-This notebook simulates a hospital dataset and applies HEDIS-aligned analytics, including:
+This notebook simulates (NOT REAL PATIENTS) a hospital dataset and applies HEDIS-aligned analytics, including:
 
 -  Data cleaning & feature engineering  
 -  Univariate & bivariate analysis  
